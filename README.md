@@ -7,8 +7,10 @@ Birdthings pangu project
 1. Add dependences.
      $ lein deps
 2. Compile ClojureScript.
-     $ lein cljsbuild once 
-3. Run.
+     $ lein cljsbuild auto
+3. Compile sass
+    $ compass watch
+3. Run Server.
      $ lein run
 
 ## License

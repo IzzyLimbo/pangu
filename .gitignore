@@ -4,5 +4,5 @@ pom.xml
 /classes/
 .lein-deps-sum
 .lein-plugins
-resources/public/cljs/cljs/
-resources/public/cljs/pangu/
+resources/public/cljs/
+.sass-cache/

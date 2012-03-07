@@ -10,7 +10,7 @@
               [{:source-path "src",
                 :compiler
                 {:output-dir "resources/public/cljs/",
-                 :output-to "resources/public/cljs/bootstrap.js",
+                 :output-to "resources/public/js/bootstrap.js",
                  :optimizations :simple,
                  :pretty-print true}}]}
   :main pangu.server)

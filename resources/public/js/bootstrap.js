@@ -7875,4 +7875,4 @@ cljs.core.prefers = function(a) {
 };
 var pangu = {client:{}};
 pangu.client.main = {};
-alert.call(null, "Welcome to pang");
+alert.call(null, "Welcome to pang!!");

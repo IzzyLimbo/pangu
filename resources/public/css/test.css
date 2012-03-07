@@ -1,0 +1,32 @@
+/* line 2, ../../../src/pangu/sass/test.sass */
+.example {
+  padding: 2em;
+}
+/* line 4, ../../../src/pangu/sass/test.sass */
+.example div {
+  background-color: blue;
+  border: 10px solid rgba(0, 255, 200, 0.5);
+  color: white;
+  text-shadow: black 2px 2px;
+  padding: 3px;
+  text-align: center;
+  margin-bottom: 2em;
+}
+/* line 12, ../../../src/pangu/sass/test.sass */
+.example #padding-box {
+  -moz-background-clip: padding;
+  -webkit-background-clip: padding;
+  -o-background-clip: padding-box;
+  -ms-background-clip: padding-box;
+  -khtml-background-clip: padding-box;
+  background-clip: padding-box;
+}
+/* line 14, ../../../src/pangu/sass/test.sass */
+.example #border-box {
+  -moz-background-clip: border;
+  -webkit-background-clip: border;
+  -o-background-clip: border-box;
+  -ms-background-clip: border-box;
+  -khtml-background-clip: border-box;
+  background-clip: border-box;
+}
