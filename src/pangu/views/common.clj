@@ -10,4 +10,5 @@
                (include-js "https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js")]
               [:body
                [:div#wrapper
-                content]]))
+                content]
+               (include-js "/cljs/bootstrap.js")]))
