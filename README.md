@@ -20,6 +20,10 @@ Birdthings pangu project
 
     $ lein run
 
+## Note
+
+1. Make sure you run $ compass clean and $ lein clean every times when you do git commit.
+
 ## License
 
 Copyright (C) 2012 Birdthings
