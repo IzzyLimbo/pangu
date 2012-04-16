@@ -7,7 +7,7 @@
               [:head
                [:title "pangu"]
                (include-css "/css/reset.css")
-               (include-css "css/test.css")
+;               (include-css "css/test.css")
                [:link {:href "/css/screen.css" :media "screen, projection" :rel "stylesheet" :type "text/css"}]
                [:link {:href "/css/print.css" :media "print" :rel "stylesheet" :type "text/css"}]
                "<!--[if IE]>"
