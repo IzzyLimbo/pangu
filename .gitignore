@@ -4,5 +4,6 @@ pom.xml
 /classes/
 .lein-deps-sum
 .lein-plugins
+.lein-cljsbuild*
 resources/public/cljs/
 .sass-cache/
